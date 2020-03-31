@@ -1,0 +1,121 @@
+{
+  "contentList": [
+    {
+      "type": "FULL",
+      "config": {
+        "image": {
+          "src": "https://raw.githubusercontent.com/dellas-artesanal/gallery/master/website-photos/home/bench_green.jpeg",
+          "href": "/products",
+          "alt": "Banco branco num fundo de folhas em uma parede",
+          "title": "produtos artesanais",
+          "maxWidth": "1900px",
+          "opened": true
+        }
+      }
+    },
+    {
+      "id": "space_1",
+      "type": "LINE_SPACE",
+      "config": {
+        "hideLine": true
+      }
+    },
+    {
+      "id": "first_text",
+      "type": "TEXT_LINE",
+      "config": {
+        "title": "O nosso produto",
+        "content": "O sabonete artesanal é a pura e verdadeira forma de um sabonete.<br>"
+      }
+    },
+    {
+      "id": "space_2",
+      "type": "LINE_SPACE",
+      "config": {
+        "hideLine": true
+      }
+    },
+    {
+      "type": "TRIPLE",
+      "id": "banner_triple_1",
+      "config": {
+        "images": [
+          {
+            "src": "https://raw.githubusercontent.com/dellas-artesanal/gallery/master/website-photos/home/leaf_square.png",
+            "alt": "Folha com fundo branco",
+            "title": "Produtos naturais",
+            "href": "/products",
+            "maxWidth": "400px",
+            "opened": false,
+            "id": "triple_1_image_1"
+          },
+          {
+            "src": "https://raw.githubusercontent.com/dellas-artesanal/gallery/master/website-photos/home/bag_square.png",
+            "alt": "Bolsa branca com flores",
+            "title": "Feito a mão",
+            "text": "Feito a mão oaksd aodkaodk asdokasod",
+            "href": "/hand-made",
+            "maxWidth": "400px",
+            "opened": false,
+            "id": "triple_1_image_2"
+          },
+          {
+            "src": "https://images.unsplash.com/photo-1565194477143-cd10a4a0af22?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80",
+            "alt": "Flores coloridas no fundo branco",
+            "href": "#card-banner_1",
+            "title": "Essências marcantes",
+            "maxWidth": "400px",
+            "opened": false,
+            "id": "triple_1_image_3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "space_3",
+      "type": "LINE_SPACE",
+      "config": {
+        "hideLine": true
+      }
+    },
+    {
+      "type": "CARD_BANNER",
+      "id": "card-banner_1",
+      "config": {
+        "htmlContent": "perfumes e aromas que são capazes de trazer sensações ou mesmo lembranças que podem causar prazer e felicidade",
+        "title": "Nossa essência",
+        "maxWidth": "1000px",
+        "image": {
+          "src": "https://raw.githubusercontent.com/dellas-artesanal/gallery/master/website-photos/home/dog_smell.jpeg",
+          "alt": "Cachorro cheirando uma folha",
+          "href": "/essences",
+          "title": "",
+          "maxWidth": "300px",
+          "opened": true
+        }
+      }
+    },
+    {
+      "id": "space_4",
+      "type": "LINE_SPACE",
+      "config": {
+        "hideLine": true
+      }
+    },
+    {
+      "type": "SINGLE",
+      "id": "banner_single_1",
+      "config": {
+        "image": {
+          "src": "https://raw.githubusercontent.com/dellas-artesanal/gallery/master/website-photos/home/woman_flower.jpeg",
+          "alt": "Mulher com uma flor na mão",
+          "title": "Das nossas mãos, para suas mãos",
+          "maxWidth": "500px",
+          "opened": true
+        }
+      }
+    }
+  ],
+  "name": "home",
+  "title": "Home - Della`s"
+}
